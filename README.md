@@ -1,5 +1,4 @@
 # ROI-Encryption-Evaluation-Benchmark
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Dataset: 55 seq](https://img.shields.io/badge/Dataset-55_sequences-4CAF50)](datasets/)
 [![Paper](https://img.shields.io/badge/arXiv-Coming_Soon-red)](https://arxiv.org)
 
@@ -33,7 +32,6 @@ Refactored and unified implementations of two representative ROI encryption sche
 | Yu et al.    | 2023 | Access   | IPM + MV sign + TC sign (AES-CFB)      | Coming soon         |
 | Taha et al.  | 2020 | Cryptography     | IPM + MVD + MV sign + TC (chaos-based) | Coming soon         |
 
-All baselines will be released under MIT license for fair and reproducible comparison.
 
 ## Citation
 
