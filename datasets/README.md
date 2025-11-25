@@ -16,11 +16,12 @@ All sequences are in raw YUV 4:2:0 raw format and widely used in video coding re
 ### Xiph.org Media
 | ID | Sequence Name      | Resolution   | FPS | Frames | Download Link                                                                                              | ROI Type                          |
 |----|--------------------|--------------|-----|--------|------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 8  | Akiyo           | 352×288    | 60  | 300    | [Download](https://media.xiph.org/video/derf/y4m/akiyo_cif.y4m))                                 | Crowd, Complex Motion             |
-| 9  | DucksTakeOff       | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/ducks_take_off_3840x2160_50fps.y4m)                           | Animals, Fast Motion             |
-|10  | OldTownCross       | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/old_town_cross_3840x2160_50fps.y4m)                           | Urban, Multiple Objects           |
-| 11 | ParkJoy            | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/park_joy_3840x2160_50fps.y4m)                                   | Park Scene, People               |
-| 12 | InToTree           | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/in_to_tree_3840x2160_50fps.y4m)                                 | Nature, Camera Motion             |
+| 8  | Akiyo           | 352×288    | 60  | 300    | [Download](https://media.xiph.org/video/derf/y4m/akiyo_cif.y4m)                                 | Single Face, Low Motion             |
+| 9  | formen       | 352×288    | 60  | 300    | [Download](https://media.xiph.org/video/derf/y4m/foreman_cif.y4m)                           | Single Face, Moderate Motion             |
+|10  | Johnny       | 1280×720    | 60  | 500    | [Download](https://media.xiph.org/video/derf/y4m/Johnny_1280x720_60.y4m)                           | Single Face, Conference           |
+|11  | vidyo1       | 1280×720    | 60  | 500    | [Download](https://media.xiph.org/video/derf/y4m/vidyo1_720p_60fps.y4m)                           | Multiple Faces, Conference           |
+| 12 | ParkJoy            | 3840×2160    | 50  | 500    | [Download](https://media.xiph.org/video/derf/y4m/park_joy_2160p50.y4m)                                   | Park Scene, People               |
+
 
 ### MSU CVQAD
 | ID | Sequence Name           | Resolution   | FPS | Frames | Download Link                                                                                                     | ROI Type                         |
