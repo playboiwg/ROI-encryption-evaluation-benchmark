@@ -2,16 +2,16 @@
 
 We collected **55 representative sequences** from three public sources.  
 All sequences are in raw YUV 4:2:0 raw format and widely used in video coding research.
-
-| ID | Source      | Sequence Name      | Resolution   | FPS | Frames | Download Link                                                                                                            | ROI Type                              |
-|----|-------------|--------------------|--------------|-----|--------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| 1  | UVG         | Beauty             | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Beauty_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Close-up Face, High Detail            |
-| 2  | UVG         | Bosphorus          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Bosphorus_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                     | Human Subject, Clear Motion           |
-| 3  | UVG         | HoneyBee           | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/HoneyBee_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                      | Object, Natural Scene                 |
-| 4  | UVG         | Jockey             | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Jockey_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                         | High-speed Human Motion               |
-| 5  | UVG         | ReadySetGo         | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/ReadySetGo_3840x2160_120fps_420_8bit_YUV_RAW.7z)                               | Fast Action, Sports                   |
-| 6  | UVG         | ShakeNDry          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/ShakeNDry_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Diverse Objects, Texture              |
-| 7  | UVG         | YachtRide          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/YachtRide_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Wide View, Water Scene                |
+### UVG Media
+| ID |    Sequence Name      | Resolution   | FPS | Frames | Download Link                                                                                                            | ROI Type                              |
+|----|--------------------|--------------|-----|--------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| 1  | Beauty             | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Beauty_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Close-up Face, High Detail            |
+| 2  | Bosphorus          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Bosphorus_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                     | Human Subject, Clear Motion           |
+| 3  | HoneyBee           | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/HoneyBee_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                      | Object, Natural Scene                 |
+| 4  | Jockey             | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Jockey_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                         | High-speed Human Motion               |
+| 5  | ReadySetGo         | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/ReadySetGo_3840x2160_120fps_420_8bit_YUV_RAW.7z)                               | Fast Action, Sports                   |
+| 6  | ShakeNDry          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/ShakeNDry_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Diverse Objects, Texture              |
+| 7  | YachtRide          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/YachtRide_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Wide View, Water Scene                |
 
 ### Xiph.org Media
 | ID | Sequence Name      | Resolution   | FPS | Frames | Download Link                                                                                              | ROI Type                          |
