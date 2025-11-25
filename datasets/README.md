@@ -24,11 +24,11 @@ All sequences are in raw YUV 4:2:0 raw format and widely used in video coding re
 
 
 ### MSU CVQAD
-| ID | Sequence Name           | Resolution   | FPS | Frames | Download Link                                                                                                     | ROI Type                         |
+| ID | Sequence Name           | Resolution   | FPS | Frames | Link                                                                                                     | ROI Type                         |
 |----|-------------------------|--------------|-----|--------|-------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| 26 | Crowd_Street_01        | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad/Crowd_Street_01.yuv)                                            | Crowded Urban                   |
-| 27 | Crowd_Street_02        | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad/Crowd_Street_02.yuv)                                            | Crowded Urban                   |
-| 28 | Traffic_And_Building   | 3840×2160    | 60  | 600    | [Link](https://videoprocessing.ai/datasets/cvqad/Traffic_And_Building.yuv)                                       | Vehicle + Pedestrian            |
-| 29 | Night_Street           | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad/Night_Street.yuv)                                               | Low-light Crowd                  |
-| 30 | Market_Place           | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad/Market_Place.yuv)                                               | Market, High Density             |
+| 26 | Crowd_Street_01        | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad.html)                                            | Crowded Urban                   |
+| 27 | Crowd_Street_02        | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad.html)                                            | Crowded Urban                   |
+| 28 | Traffic_And_Building   | 3840×2160    | 60  | 600    | [Link](https://videoprocessing.ai/datasets/cvqad.html)                                       | Vehicle + Pedestrian            |
+| 29 | Night_Street           | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad.html)                                               | Low-light Crowd                  |
+| 30 | Market_Place           | 1920×1080    | 30  | 300    | [Link](https://videoprocessing.ai/datasets/cvqad.html)                                               | Market, High Density             |
 
