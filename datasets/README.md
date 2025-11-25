@@ -1,4 +1,4 @@
-# Dataset (55 sequences)
+# Dataset 
 
 We collected **55 representative sequences** from three public sources.  
 All sequences are in raw YUV 4:2:0 raw format and widely used in video coding research.
