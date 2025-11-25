@@ -12,7 +12,7 @@ Xiph.org: 18 sequences (QCIF to 4K) - Video conferencing & surveillance.
 
 MSU CVQAD: 30 sequences - Complex environments with crowds.
 
-[Link to Download List / CSV File](https://github.com/playboiwg/ROI-encryption-evaluation-benchmark/blob/main/dataset_list.csv)
+[Download dataset list (CSV)](datasets/dataset_list.csv)
 
 2. Baseline Algorithms Implementations/Refactored code for the following algorithms are provided for comparison:
 
