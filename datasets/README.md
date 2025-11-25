@@ -5,18 +5,18 @@ All sequences are in raw YUV 4:2:0 raw format and widely used in video coding re
 ### UVG Media
 | ID |    Sequence Name      | Resolution   | FPS | Frames | Download Link                                                                                                            | ROI Type                              |
 |----|--------------------|--------------|-----|--------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| 1  | Beauty             | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Beauty_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Close-up Face, High Detail            |
-| 2  | Bosphorus          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Bosphorus_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                     | Human Subject, Clear Motion           |
-| 3  | HoneyBee           | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/HoneyBee_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                      | Object, Natural Scene                 |
-| 4  | Jockey             | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/Jockey_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                         | High-speed Human Motion               |
-| 5  | ReadySetGo         | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/ReadySetGo_3840x2160_120fps_420_8bit_YUV_RAW.7z)                               | Fast Action, Sports                   |
-| 6  | ShakeNDry          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/ShakeNDry_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Diverse Objects, Texture              |
-| 7  | YachtRide          | 3840×2160    | 120 | 300    | [RAW.7z](https://ultravideo.fi/video/YachtRide_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Wide View, Water Scene                |
+| 1  | Beauty             | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/Beauty_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Close-up Face, High Detail            |
+| 2  | Bosphorus          | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/Bosphorus_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                     | Human Subject, Clear Motion           |
+| 3  | HoneyBee           | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/HoneyBee_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                      | Object, Natural Scene                 |
+| 4  | Jockey             | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/Jockey_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                         | High-speed Human Motion               |
+| 5  | ReadySetGo         | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/ReadySetGo_3840x2160_120fps_420_8bit_YUV_RAW.7z)                               | Fast Action, Sports                   |
+| 6  | ShakeNDry          | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/ShakeNDry_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Diverse Objects, Texture              |
+| 7  | YachtRide          | 3840×2160    | 120 | 300    | [Download](https://ultravideo.fi/video/YachtRide_3840x2160_120fps_420_8bit_YUV_RAW.7z)                                       | Wide View, Water Scene                |
 
 ### Xiph.org Media
 | ID | Sequence Name      | Resolution   | FPS | Frames | Download Link                                                                                              | ROI Type                          |
 |----|--------------------|--------------|-----|--------|------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 8  | CrowdRun           | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/crowd_run_3840x2160_50fps.y4m)                                 | Crowd, Complex Motion             |
+| 8  | Akiyo           | 352×288    | 60  | 300    | [Download](https://media.xiph.org/video/derf/y4m/akiyo_cif.y4m))                                 | Crowd, Complex Motion             |
 | 9  | DucksTakeOff       | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/ducks_take_off_3840x2160_50fps.y4m)                           | Animals, Fast Motion             |
 |10  | OldTownCross       | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/old_town_cross_3840x2160_50fps.y4m)                           | Urban, Multiple Objects           |
 | 11 | ParkJoy            | 3840×2160    | 50  | 500    | [y4m](https://media.xiph.org/video/derf/y4m/park_joy_3840x2160_50fps.y4m)                                   | Park Scene, People               |
