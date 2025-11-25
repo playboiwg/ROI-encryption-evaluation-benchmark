@@ -1,8 +1,0 @@
-dataset_list.csv
-Sequence_Name,Source,Resolution,Frame_Rate,Frame_Count,Bit_Depth,Download_Link,Thumbnail
-BasketballDrive,UVG,3840x2160,50,300,10,https://ultravideo.fi/#testsequences,thumbnails/BasketballDrive.png
-Bosphorus,UVG,3840x2160,60,300,10,https://ultravideo.fi/#testsequences,thumbnails/Bosphorus.png
-HoneyBee,UVG,3840x2160,60,300,10,https://ultravideo.fi/#testsequences,thumbnails/HoneyBee.png
-...
-CrowdRun,Xiph,3840x2160,50,500,10,https://media.xiph.org/video/derf/,thumbnails/CrowdRun.png
-...
