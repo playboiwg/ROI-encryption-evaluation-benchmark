@@ -3,7 +3,7 @@
 [![Dataset: 55 seq](https://img.shields.io/badge/Dataset-55_sequences-4CAF50)](datasets/)
 [![Paper](https://img.shields.io/badge/arXiv-Coming_Soon-red)](https://arxiv.org)
 
-**The first comprehensive, standardized evaluation benchmark for H.265/HEVC & H.266/VVC ROI (Region-of-Interest) video encryption algorithms.**
+**The first comprehensive, standardized evaluation benchmark for ROI video encryption algorithms.**
 
 This repository accompanies our paper:  
 **A Visual Perception-Based Tunable Framework and Evaluation Benchmark for ROI Video Encryption**
