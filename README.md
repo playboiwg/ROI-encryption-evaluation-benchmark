@@ -30,8 +30,8 @@ Refactored and unified implementations of two representative ROI encryption sche
 
 | Method       | Year | Venue   | Encryption Targets                     | Code Status         |
 |--------------|------|---------|----------------------------------------|---------------------|
-| Yu et al.    | 2023 | TCSVT   | IPM + MV sign + TC sign (AES-CFB)      | Coming soon         |
-| Taha et al.  | 2024 | TIP     | IPM + MVD + MV sign + TC (chaos-based) | Coming soon         |
+| Yu et al.    | 2023 | Access   | IPM + MV sign + TC sign (AES-CFB)      | Coming soon         |
+| Taha et al.  | 2020 | Cryptography     | IPM + MVD + MV sign + TC (chaos-based) | Coming soon         |
 
 All baselines will be released under MIT license for fair and reproducible comparison.
 
