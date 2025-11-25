@@ -25,13 +25,14 @@ Detailed list and **direct download links** → [datasets/](datasets/)**
 
 ## Baseline Algorithms (Ready-to-Run)
 
-Refactored and unified implementations of two representative ROI encryption schemes:
+Refactored implementations of two representative ROI encryption baselines:
 
-| Method       | Year | Venue   | Encryption Targets                     | Code Status         |
-|--------------|------|---------|----------------------------------------|---------------------|
-| Yu et al.    | 2023 | Access   | IPM + MV sign + TC sign (AES-CFB)      | Coming soon         |
-| Taha et al.  | 2020 | Cryptography     | IPM + MVD + MV sign + TC (chaos-based) | Coming soon         |
+| Method       | Year | Venue | Targets                              | Size  | Download Link |
+|--------------|------|-------|--------------------------------------|--------|---------------|
+| Yu et al.    | 2023 | TCSVT | IPM + MV sign + TC sign (AES-CFB)    | 93 MB  | [Yu_et_al_code.zip](https://github.com/playboiwg/ROI-encryption-evaluation-benchmark/releases/download/v1.0.0/Yu_et_al_code.zip) |
+| Taha et al.  | 2024 | TIP   | IPM + MVD + MV sign + TC (chaos)     | 101 MB | [Taha_et_al_code.zip](https://github.com/playboiwg/ROI-encryption-evaluation-benchmark/releases/download/v1.0.0/Taha_et_al_code.zip) |
 
+Latest release → [v1.0.0 Initial Release](https://github.com/playboiwg/ROI-encryption-evaluation-benchmark/releases/tag/v1.0.0)
 
 ## Citation
 
